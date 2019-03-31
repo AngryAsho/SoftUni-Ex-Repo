@@ -1,2 +1,3 @@
-Created with GitBash
 Creating with VS17
+Created with GitBash
+Some more changes done by VS...
