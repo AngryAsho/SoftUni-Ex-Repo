@@ -1,3 +1,8 @@
+Creating with VS17
 Created with GitBash
 
+Some more changes done by VS...
 Some more edint by VIM (GitBashed)...
+
+
+
